@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enable 1M Context"
+  short_description: "Raise Codex model context metadata to 1M with backups."
+  default_prompt: "Use $enable-1m-context to enable a 1M context window for Codex on this machine."
